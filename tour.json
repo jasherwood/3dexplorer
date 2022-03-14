@@ -52,6 +52,7 @@
         {
           "pitch": -8,
           "yaw": 39,
+          "setYaw": 37,
           "hfov": 109,
           "type": "scene",
           "text": "Hub Entry",
