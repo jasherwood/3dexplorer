@@ -83,13 +83,13 @@
       "panorama": "img/frontdesk.jpg",
       "hotspots": [
         {
-          "yaw": -25,
+          "yaw": 0,
           "type": "scene",
           "text": "Hub Exterior",
           "sceneId": "exterior"
         },
         {
-          "yaw": 30,
+          "yaw": 10,
           "type": "scene",
           "text": "Hub Interior",
           "sceneId": "interior"
