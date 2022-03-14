@@ -14,7 +14,7 @@
       "hotSpots": [
         {
           "pitch": -2.1,
-          "yaw": 70,
+          "yaw": 49,
           "type": "scene",
           "text": "Hub Exterior",
           "sceneId": "exterior"
@@ -83,11 +83,16 @@
       "panorama": "img/frontdesk.jpg",
       "hotspots": [
         {
-          "pitch": 0,
-          "yaw": 25,
+          "yaw": -25,
           "type": "scene",
           "text": "Hub Exterior",
           "sceneId": "exterior"
+        },
+        {
+          "yaw": 30,
+          "type": "scene",
+          "text": "Hub Interior",
+          "sceneId": "interior"
         }
       ]
     }
