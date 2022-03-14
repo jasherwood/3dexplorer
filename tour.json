@@ -11,7 +11,6 @@
       "yaw": 26,
       "type": "equirectangular",
       "panorama": "img/viewerimage.jpg",
-      
       "hotSpots": [
         {
           "pitch": -2.1,
@@ -49,7 +48,6 @@
       "pitch": 1,
       "type": "equirectangular",
       "panorama": "img/viewerimage2.jpg",
-      
       "hotSpots": [
         {
           "pitch": 8,
@@ -83,7 +81,6 @@
       "yaw": 0,
       "type": "equirectangular",
       "panorama": "img/frontdesk.jpg",
-      
       "hotSpots": [
         {
           "pitch": -3,
