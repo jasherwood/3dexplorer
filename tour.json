@@ -53,8 +53,8 @@
           "pitch": 8,
           "yaw": 20,
           "type": "scene",
-          "text": "Hub Interior",
-          "sceneId": "interior"
+          "text": "Hub Entry",
+          "sceneId": "entry"
         },
         {
           "pitch": 27,
