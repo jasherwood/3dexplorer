@@ -91,6 +91,7 @@
           "sceneId": "exterior"
         },
         {
+          "pitch": -5,
           "yaw": 40,
           "type": "scene",
           "text": "Hub Interior",
