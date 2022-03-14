@@ -21,8 +21,8 @@
           "sceneId": "exterior"
         },
         {
-          "pitch": -2.1,
-          "yaw": 35,
+          "pitch": -8,
+          "yaw": 62,
           "type": "scene",
           "text": "Hub Entry",
           "sceneId": "entry"
@@ -86,7 +86,8 @@
       "hotSpotDebug": true,
       "hotSpots": [
         {
-          "yaw": 0,
+          "pitch": -3,
+          "yaw": -63,
           "type": "scene",
           "text": "Hub Exterior",
           "sceneId": "exterior"
