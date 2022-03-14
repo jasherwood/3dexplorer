@@ -50,8 +50,8 @@
       "panorama": "img/viewerimage2.jpg",
       "hotSpots": [
         {
-          "pitch": -8,
-          "yaw": 39,
+          "pitch": 8,
+          "yaw": 20,
           "setYaw": 37,
           "hfov": 109,
           "type": "scene",
@@ -80,7 +80,7 @@
     },
     "entry": {
       "title": "Hub Entry",
-      "yaw": 0,
+      "yaw": 37,
       "type": "equirectangular",
       "panorama": "img/frontdesk.jpg",
       "hotSpotDebug": true,
