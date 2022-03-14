@@ -81,16 +81,17 @@
       "yaw": 0,
       "type": "equirectangular",
       "panorama": "img/frontdesk.jpg",
+      "hotSpotDebug": true,
       "hotSpots": [
         {
           "pitch": -3,
-          "yaw": -63,
+          "yaw": -65,
           "type": "scene",
           "text": "Hub Exterior",
           "sceneId": "exterior"
         },
         {
-          "yaw": 10,
+          "yaw": 30,
           "type": "scene",
           "text": "Hub Interior",
           "sceneId": "interior"
