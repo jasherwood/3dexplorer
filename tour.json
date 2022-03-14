@@ -50,8 +50,9 @@
       "panorama": "img/viewerimage2.jpg",
       "hotSpots": [
         {
-          "pitch": 8,
-          "yaw": 20,
+          "pitch": -8,
+          "yaw": 39,
+          "hfov": 109,
           "type": "scene",
           "text": "Hub Entry",
           "sceneId": "entry"
