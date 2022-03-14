@@ -23,6 +23,7 @@
           "pitch": -8,
           "yaw": 62,
           "type": "scene",
+          "cssClass": "custom-hotspot",
           "text": "Hub Entry",
           "sceneId": "entry"
         },
