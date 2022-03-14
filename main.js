@@ -1160,7 +1160,7 @@ function getRowData(row) {
   viewerBtn.addEventListener('click', function(event){
     // Toggle panorama
     $('#viewerModal').modal('show');
-    document.getElementById("pano").src="https://cdn.pannellum.org/2.5/pannellum.htm#config=https://mapgeoasu.github.io/3dexplorer/tour.json&autoLoad=true";
+    document.getElementById("pano").src="https://cdn.pannellum.org/2.5/pannellum.htm#config=https://jasherwood.github.io/3dexplorer/tour.json&autoLoad=true";
   })
 
   // Add the button to the UI
