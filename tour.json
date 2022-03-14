@@ -81,6 +81,7 @@
     },
     "entry": {
       "title": "Hub Entry",
+      "pitch": -13,
       "yaw": 37,
       "type": "equirectangular",
       "panorama": "img/frontdesk.jpg",
