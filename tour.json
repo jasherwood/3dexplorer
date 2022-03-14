@@ -48,6 +48,7 @@
       "pitch": 1,
       "type": "equirectangular",
       "panorama": "img/viewerimage2.jpg",
+      "hotSpotsDebug": true,
       "hotSpots": [
         {
           "pitch": 8,
@@ -81,7 +82,8 @@
       "yaw": 0,
       "type": "equirectangular",
       "panorama": "img/frontdesk.jpg",
-      "hotspots": [
+      "hotSpotsDebug": true,
+      "hotSpots": [
         {
           "yaw": 0,
           "type": "scene",
